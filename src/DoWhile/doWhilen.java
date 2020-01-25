@@ -1,0 +1,16 @@
+package DoWhile;
+
+public class doWhilen {
+
+	public static void main(String[] args) {
+	
+		 int n;
+			for( n = 10; n <=1; n--) {
+					
+				
+			}
+			System.out.println("n = " + n);
+
+	}
+
+}
